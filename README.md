@@ -1,2 +1,2 @@
 # GFG
-#### This contains all problems practiced on GFG Practice site
+##### This contains all problems practiced on GFG Practice site
